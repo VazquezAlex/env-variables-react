@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# environment variables
+# TODO: Uncomment this code, this files should not be uploaded to repo.
+# .env
+# .env.*
